@@ -8,5 +8,3 @@ source $HOME/.cargo/env
 make
 sudo make install
 sudo cp spotify-adblock.desktop /usr/share/applications/
-
-
