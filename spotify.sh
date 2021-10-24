@@ -7,4 +7,4 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 source $HOME/.cargo/env
 make
 sudo make install
-sudo cp spotify-adblock.desktop /usr/share/applications/
+sudo cp ../spotify-adblock.desktop /usr/share/applications/
