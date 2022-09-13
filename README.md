@@ -1,5 +1,5 @@
 # deb-spotify-adblock
-script to install spotify with adblock 
+Install spotify on debian and ubuntu based distros using apt
 ## Steps
 ```
 git clone https://github.com/drunckj/deb-spotify-adblock.git
