@@ -11,4 +11,4 @@ source $HOME/.cargo/env
 fi
 make
 sudo make install
-cp ../spotify-adblock.desktop .local/share/applications/spotify-adblock.desktop
+cp ../spotify-adblock.desktop $HOME/.local/share/applications/spotify-adblock.desktop
